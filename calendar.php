@@ -2,9 +2,9 @@
 
 <?php require_once "controllerUserData.php"; ?>
 
-<?php require_once "bagplinmasa.php"; ?>
+<?php require_once "request.php"; ?>
 
-<?php require_once "bagplinmasaconcurenti.php";
+<?php require_once "email_re.php";
 ?>
 
 

@@ -2,7 +2,7 @@
 
 //insert.php
 
-$connect = new PDO('mysql:host=localhost;dbname=u824022186_calendar', 'u824022186_mihneacalendar', '?LcS@4y6Ns4');
+$connect = new PDO('mysql:host=localhost;dbname=u824022186_calendar', 'root', ' ');
 
 if(isset($_POST["title"]))
 {

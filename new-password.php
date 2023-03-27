@@ -1,5 +1,5 @@
 <?php require_once "controllerUserData.php"; ?>
-<?php require_once "otp-bagplinmasa.php"; ?>
+<?php require_once "verificare-otp.php"; ?>
 
 <!DOCTYPE html>
 <html lang="en">

@@ -3,8 +3,8 @@
 //load.php
 
 $servername = "localhost";
-$username = "u824022186_mihneacalendar";
-$password = "?LcS@4y6Ns4";
+$username = "root";
+$password = " ";
 
 
 

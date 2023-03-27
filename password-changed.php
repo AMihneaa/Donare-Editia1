@@ -1,5 +1,5 @@
 <?php require_once "controllerUserData.php"; ?>
-<?php require_once "bagplinmasasaaa.php"; ?>
+<?php require_once "redirect.php"; ?>
 
 
 <!DOCTYPE html>
